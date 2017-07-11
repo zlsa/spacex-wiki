@@ -1,5 +1,5 @@
 <!-- TITLE: CCAFS SLC-40 -->
-<!-- SUBTITLE: SLC-40 was SpaceX's first Falcon 9 launchpad. -->
+<!-- SUBTITLE: Cape Canaveral Air Force Station's Space Launch Complex 40 is one of two East Coast launchpads. -->
 
 # Location
 Cape Canaveral Air Force Station, Cape Canaveral, Florida
