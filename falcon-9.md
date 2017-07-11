@@ -68,7 +68,7 @@ The Block 5 variant is optimized for rapid reuse. It features new landing legs, 
 |*.1430175780*|[v1.1](falcon-9-v1-1)                     |[SLC-40](slc-40)|TürkmenÄlem 52°E/MonacoSAT       |4707kg |GTO         |Success                  |                     |                    |
 |*.1435501260*|[v1.1](falcon-9-v1-1)                     |[SLC-40](slc-40)|CRS-7                            |1952kg |ISS         |Failure                  |N/A                  |[JRTI](marmac-300)  |
 |*.1450747740*|[v1.2](falcon-9-v1-2) [B1019](f9-b1019)   |[SLC-40](slc-40)|Orbcomm-OG2 M2                   |2034kg |LEO         |Success                  |Success              |[LZ-1](lz-1)        |
-|*.1453056120*|[v1.2](falcon-9-v1-1)                     |[SLC-4E](slc-4e)|Jason-3                          |553kg  |LEO         |Success                  |Failure              |[JRTI](marmac-303)  |
+|*.1453056120*|[v1.1](falcon-9-v1-1)                     |[SLC-4E](slc-4e)|Jason-3                          |553kg  |LEO         |Success                  |Failure              |[JRTI](marmac-303)  |
 |*.1457134500*|[v1.2](falcon-9-v1-2) [B1020](f9-b1020)   |[SLC-40](slc-40)|SES-9                            |5271kg |GTO         |Success                  |Failure              |[OCISLY](marmac-304)|
 |*.1460148180*|[v1.2](falcon-9-v1-2) [B1021](f9-b1021)   |[SLC-40](slc-40)|CRS-8                            |3136kg |ISS         |Success                  |Success              |[OCISLY](marmac-304)|
 |*.1462512060*|[v1.2](falcon-9-v1-2) [B1022](f9-b1022)   |[SLC-40](slc-40)|JCSAT-14                         |4696kg |GTO         |Success                  |Success              |[OCISLY](marmac-304)|
