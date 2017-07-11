@@ -9,7 +9,32 @@ The SpaceX Falcon 9 is a two-stage launch vehicle. Over the years, it's been sub
 * [Falcon 9 v1.2](falcon-9-v1-2)                                                                                                                                                                                                                                          
 * [Falcon 9 v1.3](falcon-9-v1-3)                                                                                                                                                                                                                                          
 * [Falcon 9 Block 4](falcon-9-b4)                                                                                                                                                                                                                                         
-* [Falcon 9 Block 5](falcon-9-b5)                                                                                                                                                                                                                                         
+* [Falcon 9 Block 5](falcon-9-b5)     
+
+
+## Falcon 9 v1.0
+
+This is the first variant of the Falcon 9, and the only variant to feature the tic-tac-toe engine layout and the Merlin 1C engine.
+
+## Falcon 9 v1.1
+
+This is the first major redesign of the Falcon 9. First flown on the DSCOVR mission, it features dramatically lengthened first and second stages, along with the octaweb and Merlin 1D engines.
+
+## Falcon 9 v1.2 (aka Falcon 9 Full Thrust)
+
+This variant features densified propellants to increase energy without increasing tank volume. First flew with Orbcomm OG2-M2.
+
+## Falcon 9 v1.3 (aka Falcon 9 Block 3)
+
+This nebulous area includes the further thrust improvements of the Merlin engines.
+
+## Falcon 9 Block 4
+
+The Block 4 variant features various Block 5 hardware changes, backported to the Block 3 vehicle. Notably, this includes a bolted-together octaweb and titanium grid fins.
+
+## Falcon 9 Block 5
+
+The Block 5 variant is optimized for rapid reuse. It features new landing legs, new grid fins, and presumably lots of other changes to allow for faster turnaround time after recovery.
                                                                                                                                                                                                                                                                           
 # Launches                                                                                                                                                                                                                                                                
 (The stated payload mass is the published mass; generally, this is the combined mass of all satellites or cargo, but does not include spacecraft or dispenser mass.)                                                                                                      
