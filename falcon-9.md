@@ -77,3 +77,13 @@ The Block 5 variant is optimized for rapid reuse. It features new landing legs, 
 |*.1468817100*|[v1.2](falcon-9-v1-2) [B1025](f9-b1025)   |[SLC-40](slc-40)|CRS-9                            |2257kg |ISS         |Success                  |Success              |[LZ-1](lz-1)        |
 |*.1471152360*|[v1.2](falcon-9-v1-2) [B1026](f9-b1026)   |[SLC-40](slc-40)|JCSAT-16                         |4600kg |GTO         |Success                  |Success              |[OCISLY](marmac-304)|
 |*.1472735220*|[v1.2](falcon-9-v1-2) [B1028](f9-b1028)   |[SLC-40](slc-40)|AMOS-6                           |5500kg |GTO         |Failure                  |N/A                  |[OCISLY](marmac-304)|
+|*.1484416440*|[v1.2](falcon-9-v1-2) [B1029](f9-b1029)   |[SLC-4E](slc-4e)|Iridium NEXT 1-10                |9600kg |LEO         |Success                  |Success              |[JRTI](marmac-303)  |
+|*.1487515140*|[v1.2](falcon-9-v1-2) [B1031](f9-b1031)   |[LC-39A](lc-39A)|CRS-10                           |2490kg |ISS         |Success                  |Success              |[LZ-1](lz-1)        |
+|*.1489644000*|[v1.2](falcon-9-v1-2) [B1030](f9-b1030)   |[LC-39A](lc-39A)|EchoStar 23                      |5600kg |GTO         |Success                  |                     |                    |
+|*.1490912820*|[v1.2](falcon-9-v1-2) [B1021](f9-b1021)   |[LC-39A](lc-39A)|SES-10                           |5300kg |GTO         |Success                  |Success              |[OCISLY](marmac-304)|
+|*.1493637300*|[v1.2](falcon-9-v1-2) [B1032](f9-b1032)   |[LC-39A](lc-39A)|NROL-76                          |       |LEO         |Success                  |Success              |[LZ-1](lz-1)        |
+|*.1494890460*|[v1.2](falcon-9-v1-2) [B1034](f9-b1034)   |[LC-39A](lc-39A)|Inmarsat-5 F4                    |6070kg |GTO         |Success                  |                     |                    |
+|*.1496524020*|[v1.2](falcon-9-v1-2) [B1035](f9-b1035)   |[LC-39A](lc-39A)|CRS-11                           |2708kg |ISS         |Success                  |Success              |[LZ-1](lz-1)        |
+|*.1498245000*|[v1.2](falcon-9-v1-2) [B1029](f9-b1029)   |[LC-39A](lc-39A)|BulgariaSat-1                    |3669kg |GTO         |Success                  |Success              |[OCISLY](marmac-304)|
+|*.1498422300*|[v1.2](falcon-9-v1-2) [B1036](f9-b1036)   |[SLC-4E](slc-4e)|Iridium NEXT 11-20               |9600kg |LEO         |Success                  |Success              |[JRTI](marmac-303)  |
+|*.1499297880*|[v1.2](falcon-9-v1-2) [B1037](f9-b1037)   |[LC-39A](lc-39A)|Intelsat 35e                     |6761kg |GTO         |Success                  |                     |                    |
